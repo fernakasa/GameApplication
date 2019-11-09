@@ -1,0 +1,17 @@
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\GameApplication.deps.json
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\GameApplication.runtimeconfig.json
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\GameApplication.runtimeconfig.dev.json
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\GameApplication.dll
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\GameApplication.pdb
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.csprojAssemblyReference.cache
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.csproj.CoreCompileInputs.cache
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.RazorAssemblyInfo.cache
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.RazorAssemblyInfo.cs
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.AssemblyInfoInputs.cache
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.AssemblyInfo.cs
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.RazorTargetAssemblyInfo.cache
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.csproj.CopyComplete
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.dll
+C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Debug\netcoreapp2.2\GameApplication.pdb
