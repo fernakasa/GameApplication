@@ -48,9 +48,9 @@ namespace GameApplication.Controllers
                     players.Add(jugador.Nickname, jugador.CantidadJugadas.ToString());
                 }
 
-                var jsonPlayers = JsonConvert.SerializeObject(players);
+                //var jsonPlayers = JsonConvert.SerializeObject(players);
 
-                return Ok(jsonPlayers);
+                return Ok(players);
             }
             catch(Exception ex)
             {

@@ -1,0 +1,18 @@
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+D:\UCP\Programacion III\TPI-Proyecto\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\54379\Desktop\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\54379\Desktop\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\54379\Desktop\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
