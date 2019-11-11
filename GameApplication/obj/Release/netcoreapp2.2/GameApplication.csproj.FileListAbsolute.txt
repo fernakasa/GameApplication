@@ -15,3 +15,22 @@ C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcorea
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.csproj.CopyComplete
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.dll
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.pdb
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\GameApplication.deps.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\GameApplication.runtimeconfig.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\GameApplication.runtimeconfig.dev.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\GameApplication.dll
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\GameApplication.pdb
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\DataLayer.dll
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\bin\Release\netcoreapp2.2\DataLayer.pdb
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.RazorAssemblyInfo.cache
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.RazorAssemblyInfo.cs
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.AssemblyInfo.cs
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.csproj.CopyComplete
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.dll
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.pdb

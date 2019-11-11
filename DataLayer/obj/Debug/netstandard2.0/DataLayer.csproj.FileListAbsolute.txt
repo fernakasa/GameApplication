@@ -16,3 +16,11 @@ C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo
 C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
 C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
 C:\Users\54379\Desktop\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\Omar\Documents\Unreal Projects\GameApplication\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
