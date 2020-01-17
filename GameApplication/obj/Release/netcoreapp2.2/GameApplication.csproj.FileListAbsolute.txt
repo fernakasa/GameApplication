@@ -6,7 +6,6 @@ C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Release\netcorea
 C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Release\netcoreapp2.2\DataLayer.dll
 C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Release\netcoreapp2.2\DataLayer.pdb
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.csprojAssemblyReference.cache
-C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.csproj.CoreCompileInputs.cache
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.RazorAssemblyInfo.cache
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.RazorAssemblyInfo.cs
 C:\Users\54379\source\repos\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.AssemblyInfoInputs.cache
@@ -34,3 +33,6 @@ C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Rele
 C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.csproj.CopyComplete
 C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.dll
 C:\Users\Omar\Documents\Unreal Projects\GameApplication\GameApplication\obj\Release\netcoreapp2.2\GameApplication.pdb
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\54379\source\repos\GameApplication\GameApplication\bin\Release\netcoreapp2.2\Properties\launchSettings.json

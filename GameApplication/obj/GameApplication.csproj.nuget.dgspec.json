@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\GameApplication\\GameApplication.csproj": {}
+    "C:\\Users\\54379\\source\\repos\\GameApplication\\GameApplication\\GameApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\54379\\source\\repos\\GameApplication\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\54379\\source\\repos\\GameApplication\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\DataLayer\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\DataLayer\\obj\\",
+        "projectPath": "C:\\Users\\54379\\source\\repos\\GameApplication\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\54379\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54379\\source\\repos\\GameApplication\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\54379\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,20 +70,20 @@
         }
       }
     },
-    "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\GameApplication\\GameApplication.csproj": {
+    "C:\\Users\\54379\\source\\repos\\GameApplication\\GameApplication\\GameApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\GameApplication\\GameApplication.csproj",
+        "projectUniqueName": "C:\\Users\\54379\\source\\repos\\GameApplication\\GameApplication\\GameApplication.csproj",
         "projectName": "GameApplication",
-        "projectPath": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\GameApplication\\GameApplication.csproj",
-        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\GameApplication\\obj\\",
+        "projectPath": "C:\\Users\\54379\\source\\repos\\GameApplication\\GameApplication\\GameApplication.csproj",
+        "packagesPath": "C:\\Users\\54379\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54379\\source\\repos\\GameApplication\\GameApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\54379\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,8 +96,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Omar\\Documents\\Unreal Projects\\GameApplication\\DataLayer\\DataLayer.csproj"
+              "C:\\Users\\54379\\source\\repos\\GameApplication\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\54379\\source\\repos\\GameApplication\\DataLayer\\DataLayer.csproj"
               }
             }
           }
